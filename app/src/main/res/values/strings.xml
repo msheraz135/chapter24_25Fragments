@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">chapter24_25Fragments</string>
+    <string name="home">Home</string>
+    <string name="notification">Noty</string>
+    <string name="dashboard">Dasy</string>
+    <string name="menu">Menu</string>
+    <string name="hamburger">Hamby</string>
+    <string name="chat">Chaty</string>
+    <string name="shop">Shopy</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_chat_fragment">This is Chat Fragment</string>
+    <string name="this_is_dashboard_fragment">this is dashboard fragment</string>
+    <string name="this_is_hamburger_fragment">this is Hamburger Fragment</string>
+    <string name="this_is_home_fragment">this is home fragment</string>
+    <string name="this_is_notification_fragment">this is notification fragment</string>
+    <string name="this_is_shop_fragment">This is Shop Fragment</string>
+</resources>
